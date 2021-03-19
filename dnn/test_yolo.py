@@ -10,7 +10,7 @@ import cv2
 import numpy as np
 import time
 
-net = cv2.dnn.readNet("yolov3-tiny_custom_4000.weights","yolov3-tiny_custom.cfg") # Poner los pesos obtenidos del entrenamiento y el .cfg utilizado
+net = cv2.dnn.readNet("../weights/<nombre_archivo.weights>","yolov3-tiny_custom.cfg") # Poner los pesos obtenidos del entrenamiento y el .cfg utilizado
 
 classes = []
 with open("obj.names","r") as f: #utilizar el obj.names utilizado en yolo 
@@ -24,7 +24,7 @@ outputlayers = [layer_names[i[0] - 1] for i in net.getUnconnectedOutLayers()]
 colors= np.random.uniform(0,255,size=(len(classes),3))
 
 #cargar video
-cap=cv2.VideoCapture("../data/video/video_name.mp4") #aquí debe de poner el nombre del video
+cap=cv2.VideoCapture("../data/video/<nombre_de_archivo>.mp4") #aquí debe de poner el nombre del video
 font = cv2.FONT_HERSHEY_PLAIN
 starting_time= time.time()
 frame_id = 0

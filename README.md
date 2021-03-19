@@ -63,9 +63,9 @@
       <a href="#Ejecución">Ejecución</a>
       <ul>
         <!--<li><a href="#Pre-requisitos">Pre-requisitos</a></li>-->
-        <li><a href="#Base%20de%20Datos">Base de Datos</a></li>
-        <li><a href="#Entrenamiento%20de%20YOLOv3">Entrenamiento de YOLOv3</a></li>
-        <li><a href="#Visualización%20de%20Detección">Visualización de Detección</a></li>
+        <li><a href="#base-de-datos">Base de Datos</a></li>
+        <li><a href="#entrenamiento-de-YOLOv3">Entrenamiento de YOLOv3</a></li>
+        <li><a href="#Visualización-de-Detección">Visualización de Detección</a></li>
       </ul>
     </li>
     <!--<li><a href="#Ejemplos">Ejemplos</a></li>

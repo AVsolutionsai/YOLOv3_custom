@@ -47,7 +47,7 @@
   <summary>Contenido</summary>
   <ol>
     <li>
-      <a href="#Sobre el proyecto">Sobre el proyecto</a>
+      <a href="#Proyecto">Proyecto</a>
       <ul>
         <li><a href="#Construir">Construcción</a></li>
       </ul>
@@ -56,23 +56,23 @@
       <a href="#Empezar">Empezar</a>
       <ul>
         <!--<li><a href="#Pre-requisitos">Pre-requisitos</a></li>-->
-        <li><a href="#Instalación y Pre-requisitos">Instalación y Pre-requisitos</a></li>
+        <li><a href="#Requisitos">Requisitos</a></li>
       </ul>
     </li>
-    <li><a href="#Correr Proyecto">Correr Proyecto</a></li>
+    <li><a href="#Ejecución">Ejecución</a></li>
     <li><a href="#Ejemplos">Ejemplos</a></li>
     <!--<li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>-->
     <li><a href="#Contacto">Contacto</a></li>
-    <li><a href="#Reconocimientos">Reconocimientos</a></li>
+    <!--<li><a href="#Reconocimientos">Reconocimientos</a></li>-->
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## Sobre el proyecto
+## Proyecto
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
@@ -92,7 +92,7 @@ Este proyecto fue testeado con las siguientes dependencias.
 ## Empezar
 Para comenzar este proyecto, es necesario clonarlo seguir los siguientes pasos:
 
-### Instalación y Pre-requisitos
+### Requisitos
 
 1. Clonar el repositorio
    ```sh
@@ -106,7 +106,7 @@ Para comenzar este proyecto, es necesario clonarlo seguir los siguientes pasos:
 
 
 <!-- USAGE EXAMPLES -->
-## Correr Proyecto
+## Ejecución
 ### Creación de Base de datos
 Comenzaremos en la carpeta *create_database*, en donde tendremos 3 archivos:
 - get_data_yolo.py
@@ -172,7 +172,7 @@ Distributed under the MIT License. See `LICENSE` for more information.-->
 
 
 <!-- CONTACT -->
-## Contact
+## Contacto
 
 Isaac R. Aguilar Figueroa - [Isaac Aguilar](https://www.linkedin.com/in/isaac-rene-aguilar-figueroa-b5b2438b/) - isaac.aguilar@alumnos.udg.mx
 

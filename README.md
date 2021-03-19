@@ -29,14 +29,14 @@
   <p align="center">
     Entrenamiento customizado para entrenamiento de YOLOv3 y YOLOv3-tiny
     <br />
-    <a href="https://github.com/AVsolutionsai/YOLOv3_custom"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AVsolutionsai/YOLOv3_custom"><strong>Explorar Documentos»</strong></a>
     <br />
     <br />
     <!--<a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>-->
     ·
     <a href="https://github.com/AVsolutionsai/YOLOv3_custom/issues">Reportar Bug</a>
     ·
-    <a href="https://github.com/AVsolutionsai/YOLOv3_custom/issues">Request Feature</a>
+    <a href="https://github.com/AVsolutionsai/YOLOv3_custom/issues">Pedir una Feature</a>
   </p>
 </p>
 
@@ -63,9 +63,9 @@
       <a href="#Ejecución">Ejecución</a>
       <ul>
         <!--<li><a href="#Pre-requisitos">Pre-requisitos</a></li>-->
-        <li><a href="#Base de Datos">Base de Datos</a></li>
-        <li><a href="#Entrenamiento de YOLOv3">Entrenamiento de YOLOv3</a></li>
-        <li><a href="#Visualización de Detección">Visualización de Detección</a></li>
+        <li><a href="#Base%20de%20Datos">Base de Datos</a></li>
+        <li><a href="#Entrenamiento%20de%20YOLOv3">Entrenamiento de YOLOv3</a></li>
+        <li><a href="#Visualización%20de%20Detección">Visualización de Detección</a></li>
       </ul>
     </li>
     <!--<li><a href="#Ejemplos">Ejemplos</a></li>

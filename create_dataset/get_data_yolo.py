@@ -77,10 +77,10 @@ class ProcesarVideo():
                                                         sperms_coords_filter)
     
             
-            if not os.path.exists('Database'):
-                os.makedirs('Database')
+            if not os.path.exists('Obj'):
+                os.makedirs('Obj')
             
-            path = 'Database'
+            path = 'Obj'
             
             
             if len(sperms_coords_filter)>1 and count> th:   

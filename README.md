@@ -123,7 +123,7 @@ Comenzaremos en la carpeta *create_database*, en donde tendremos 3 archivos:
 
 Una vez abierto el archivo *main_get_data_yolo.py* es necesario cambiar el *nombre_de_archivo.mp4* que debe encontrarse en la carpeta *data/video*.
 Después, podemos ejecutar este archivo.
-Nos creará una carpeta dentro de este mismo *path* llamada *Database*, en donde encontraremos todos los archivos *.jpg* y *.txt* necesarios para entrenar YOLOv3.
+Nos creará una carpeta dentro de este mismo *path* llamada *Obj*, en donde encontraremos todos los archivos *.jpg* y *.txt* necesarios para entrenar YOLOv3.
 
 ### Entrenamiento de YOLOv3
 Entrar al siguiente Google Colab para comenzar el entrenamiento de YOLOv3, seguir los pasos indicados:

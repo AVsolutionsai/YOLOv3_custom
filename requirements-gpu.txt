@@ -1,0 +1,10 @@
+tensorflow-gpu==2.1.2
+numpy
+opencv-python==4.1.1.26
+lxml
+tqdm
+flask
+seaborn
+pillow
+matplotlib==3.2
+h5py==2.10.0

@@ -59,9 +59,17 @@
         <li><a href="#Requisitos">Requisitos</a></li>
       </ul>
     </li>
-    <li><a href="#Ejecución">Ejecución</a></li>
-    <li><a href="#Ejemplos">Ejemplos</a></li>
-    <!--<li><a href="#roadmap">Roadmap</a></li>
+    <li>
+      <a href="#Ejecución">Ejecución</a>
+      <ul>
+        <!--<li><a href="#Pre-requisitos">Pre-requisitos</a></li>-->
+        <li><a href="#Base de Datos">Base de Datos</a></li>
+        <li><a href="#Entrenamiento de YOLOv3">Entrenamiento de YOLOv3</a></li>
+        <li><a href="#Visualización de Detección">Visualización de Detección</a></li>
+      </ul>
+    </li>
+    <!--<li><a href="#Ejemplos">Ejemplos</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>-->
     <li><a href="#Contacto">Contacto</a></li>
@@ -107,7 +115,7 @@ Para comenzar este proyecto, es necesario clonarlo seguir los siguientes pasos:
 
 <!-- USAGE EXAMPLES -->
 ## Ejecución
-### Creación de Base de datos
+### Base de Datos
 Comenzaremos en la carpeta *create_database*, en donde tendremos 3 archivos:
 - get_data_yolo.py
 - main_get_data_yolo.py

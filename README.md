@@ -102,14 +102,18 @@ Para comenzar este proyecto, es necesario clonarlo seguir los siguientes pasos:
 
 ### Requisitos
 
-1. Clonar el repositorio
+1. Clonar el repositorio en un ambiente virtual
    ```sh
    git clone https://github.com/AVsolutionsai/YOLOv3_custom.git
    ```
-2. Descargar los pesos para crear la Base de Datos para entrenar YOLOv3 del siguiente link, una vez descargado el modelo, pasarlo a la carpeta *create_dataset* del proyecto:
+2. Instalar requerimientos en ambiente virtual
+   ```sh
+   pip install -r requirements-gpu.txt
+   ```
+3. Descargar los pesos para crear la Base de Datos para entrenar YOLOv3 del siguiente link, una vez descargado el modelo, pasarlo a la carpeta *create_dataset* del proyecto:
 * [Pesos VGG16](https://drive.google.com/drive/folders/1JvGF7UOImLokG-cmV5yiOcz3ZgEqN1px)
 
-3. Descargar los archivos *yolov3_custom.cfg* y *obj.names* para la visualización con *dnn* del siguiente link, una vez descargados, pasarlos a la carpeta *dnn*:
+4. Descargar los archivos *yolov3_custom.cfg* y *obj.names* para la visualización con *dnn* del siguiente link, una vez descargados, pasarlos a la carpeta *dnn*:
 * [Archivos de configuración YOLOv3](https://drive.google.com/drive/u/1/folders/13jZwASuPZuLl_3i4vyrlan-HV0Q9itWp)
 
 

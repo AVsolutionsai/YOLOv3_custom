@@ -10,7 +10,7 @@ import cv2
 import numpy as np
 import time
 
-net = cv2.dnn.readNet("../weights/<nombre_archivo.weights>","yolov3-tiny_custom.cfg") # Poner los pesos obtenidos del entrenamiento y el .cfg utilizado
+net = cv2.dnn.readNet("../weights/<nombre_archivo.weights>","yolov3_custom.cfg") # Poner los pesos obtenidos del entrenamiento y el .cfg utilizado
 
 classes = []
 with open("obj.names","r") as f: #utilizar el obj.names utilizado en yolo 
